@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="text_to">To</string>
+    <string name="text_from">From</string>
+    <string name="default_value">1</string>
+    <string name="hint_text">Enter a value</string>
+    <string name="color_red">Red</string>
+    <string name="color_yellow">Yellow</string>
+    <string name="color_green">Green</string>
+    <string name="color_white">White</string>
+    <string name="background">Background color:</string>
+    <string-array name="commonUnits">
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>NZD</item>
+        <item>SGD</item>
+        <item>USD</item>
+    </string-array>
+</resources>
